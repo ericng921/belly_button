@@ -21,7 +21,7 @@ As the picture shown above, it is the main page of the analysis.
 
 Other than "Make the webpage mobile-responsive" which is already default from the starter code, there are three more customerization for the webpage:
 
-1. Add an image to the jumbotron;
+1. Add an image to the jumbotron.
 
 2. Add more information about the project as a paragraph on the page.
 
